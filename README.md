@@ -2,7 +2,7 @@
 
 **Problem Statement:**
 Analyzing and Visualizing Historical Price Trends, 
-Predictive Models for Future Price Movements
+Predictive Models for Future Price Movements.
 
 **KPI:**
 Exploring top 5 coins – High Volatile & Low Volatile, 
